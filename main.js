@@ -5,7 +5,7 @@ const listItems =[
     {id:1,
         name: "Carved buffalo skull Indian huge skull",
         price: 5500000,
-        img: './assets/images/il_794xN.3228679722_oz0l.jpg',
+        img: 'https://i.etsystatic.com/27320701/r/il/ada1ab/3666810339/il_794xN.3666810339_4xk3.jpg',
         car:[
             'https://i.etsystatic.com/27320701/r/il/db904d/3228663256/il_794xN.3228663256_m1as.jpg',
             'https://i.etsystatic.com/27320701/r/il/dd59a9/3228663416/il_794xN.3228663416_rvfe.jpg',
@@ -18,7 +18,7 @@ const listItems =[
     {id:2,
         name: "carved buffalo skull carving Lotus padma",
         price: 5500000,
-        img: "./assets/images/il_794xN.3725923346_106v.jpg",
+        img: "https://i.etsystatic.com/27320701/r/il/60064c/3725923346/il_794xN.3725923346_106v.jpg",
         car:[
             'https://i.etsystatic.com/27320701/r/il/a25970/3725923688/il_794xN.3725923688_pyba.jpg',
             'https://i.etsystatic.com/27320701/r/il/57219a/3725923914/il_794xN.3725923914_td7r.jpg',
@@ -93,6 +93,55 @@ const listItems =[
             'https://i.etsystatic.com/27320701/r/il/ff33fc/3204015692/il_794xN.3204015692_bs58.jpg',
             'https://i.etsystatic.com/27320701/r/il/d49ac9/3204008122/il_794xN.3204008122_7z09.jpg',
             'https://v-cg.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/1626248876406_IMG_30714772_cd3igf.mp4',
+            
+        ]
+    },
+    {id:9,
+        name: "carve buffalo skull BOHO MENIAN grey",
+        price: 5600000,
+        img: 'https://i.etsystatic.com/27320701/r/il/1fa551/3885111177/il_794xN.3885111177_jj2b.jpg',
+        car:[
+            'https://i.etsystatic.com/27320701/r/il/44adc3/3868695395/il_794xN.3868695395_1n29.jpg',
+            'https://i.etsystatic.com/27320701/r/il/0f5a01/3821177758/il_794xN.3821177758_26ih.jpg',
+            'https://i.etsystatic.com/27320701/r/il/15a972/3868695529/il_794xN.3868695529_hwl1.jpg',
+            'https://i.etsystatic.com/27320701/r/il/43330e/3868695591/il_794xN.3868695591_fcl9.jpg',
+            'https://i.etsystatic.com/27320701/r/il/8741ea/3821177888/il_794xN.3821177888_7ajk.jpg'
+            
+        ]
+    },
+    {id:10,
+        name: "carved buffalo skull carving Mandala sun flower",
+        price: 5600000,
+        img: 'https://i.etsystatic.com/27320701/r/il/a1f7d0/3186379098/il_794xN.3186379098_fk0g.jpg',
+        car:[
+            'https://i.etsystatic.com/27320701/r/il/b0b509/3186395780/il_794xN.3186395780_p5dx.jpg',
+            'https://i.etsystatic.com/27320701/r/il/649442/3186380378/il_794xN.3186380378_c6gh.jpg',
+            'https://i.etsystatic.com/27320701/r/il/5fd848/3234080935/il_794xN.3234080935_fau2.jpg',
+            'https://i.etsystatic.com/27320701/r/il/89fe22/3234081425/il_794xN.3234081425_hb9e.jpg',
+            'https://v-cg.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_105753974_xzipoc.mp4'
+            
+        ]
+    },
+    {id:11,
+        name: "carved buffalo skull small carving round its custom design",
+        price: 5600000,
+        img: 'https://i.etsystatic.com/27320701/r/il/d954bb/3284755142/il_794xN.3284755142_1uxd.jpg',
+        car:[
+            'https://i.etsystatic.com/27320701/r/il/fe744b/3284754466/il_794xN.3284754466_4o2g.jpg',
+            'https://i.etsystatic.com/27320701/r/il/4c5920/3332447365/il_794xN.3332447365_grxp.jpg',
+            'https://i.etsystatic.com/27320701/r/il/22a5af/3284754664/il_794xN.3284754664_qhza.jpg',
+            
+        ]
+    },
+    {id:12,
+        name: "carved buffalo flower grey medium horn",
+        price: 5000000,
+        img: 'https://i.etsystatic.com/27320701/r/il/13f960/3882017838/il_794xN.3882017838_3ikd.jpg',
+        car:[
+            'https://i.etsystatic.com/27320701/r/il/94df83/3882018326/il_794xN.3882018326_kb2i.jpg',
+            'https://i.etsystatic.com/27320701/r/il/1f5fb1/3882018304/il_794xN.3882018304_5qjn.jpg',
+            'https://i.etsystatic.com/27320701/r/il/aa03b5/3882018316/il_794xN.3882018316_gel9.jpg',
+            'https://i.etsystatic.com/27320701/r/il/b75700/3929506397/il_794xN.3929506397_c8ci.jpg'
             
         ]
     },
