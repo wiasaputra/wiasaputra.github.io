@@ -87,7 +87,7 @@ const listItems =[
     },
     {id:8,
         name: "carved cow skull lotus",
-        price: 450000,
+        price: 4500000,
         img: 'https://i.etsystatic.com/27320701/r/il/85cb43/3678512373/il_794xN.3678512373_ahlx.jpg',
         car:[
             'https://i.etsystatic.com/27320701/r/il/ff33fc/3204015692/il_794xN.3204015692_bs58.jpg',
