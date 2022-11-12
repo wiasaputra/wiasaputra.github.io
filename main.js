@@ -74,6 +74,28 @@ const listItems =[
             'https://i.etsystatic.com/27320701/r/il/bf8a32/2960753994/il_1140xN.2960753994_byg8.jpg'
         ]
     },
+    {id:7,
+        name: "Carved skull buffalo with octopuse lonng horn",
+        price: 5600000,
+        img: 'https://i.etsystatic.com/27320701/r/il/edb917/3278329817/il_794xN.3278329817_h2kg.jpg',
+        car:[
+            'https://i.etsystatic.com/27320701/r/il/44a06c/3226291318/il_794xN.3226291318_7n57.jpg',
+            'https://i.etsystatic.com/27320701/r/il/ed295d/3273976209/il_794xN.3273976209_grol.jpg',
+            'https://i.etsystatic.com/27320701/r/il/c502ed/3226291512/il_794xN.3226291512_izym.jpg',
+            
+        ]
+    },
+    {id:8,
+        name: "carved cow skull lotus",
+        price: 450000,
+        img: 'https://i.etsystatic.com/27320701/r/il/85cb43/3678512373/il_794xN.3678512373_ahlx.jpg',
+        car:[
+            'https://i.etsystatic.com/27320701/r/il/ff33fc/3204015692/il_794xN.3204015692_bs58.jpg',
+            'https://i.etsystatic.com/27320701/r/il/d49ac9/3204008122/il_794xN.3204008122_7z09.jpg',
+            'https://v-cg.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/1626248876406_IMG_30714772_cd3igf.mp4',
+            
+        ]
+    },
     
     
 ] 
@@ -119,8 +141,15 @@ btnDetail.forEach((data, index)=> {
        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
      </div>
      <div class="modal-body text-center">
-     ${listItems[index].car.map(e=>{return `<img class="img-fluid mb-3" src="${e}"/>`}).join("")}
-       <div>For more detail information send Whatapp</div>
+     ${listItems[index].car.map(e=>{
+        
+        return `
+        ${e.split('.').pop()==="mp4"? `<video style="width: 75%; height: 75%;" width="400" controls>
+        <source src=${e} type="video/mp4">Your browser does not support HTML5 video.</video>`:`<img class="img-fluid mb-3" src="${e}"/>`}
+        `
+        }).join("")
+        }
+       <div class="mt-5">For more detail information send Whatapp</div>
        <button type="button" class="btn btn-outline-success" onclick="whatAppChat()">Contact Here</button>
      </div>
      <div class="modal-footer">
