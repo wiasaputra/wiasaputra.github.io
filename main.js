@@ -62,7 +62,7 @@ const listItems =[
     },
     {id:6,
         name: "buffalo skull carving floral grey",
-        price: ,
+      
         img: 'https://i.etsystatic.com/27320701/r/il/973211/3759067025/il_1140xN.3759067025_3qgx.jpg',
         car:[
             'https://i.etsystatic.com/27320701/r/il/6acf6a/3759066761/il_1140xN.3759066761_fp9l.jpg',
