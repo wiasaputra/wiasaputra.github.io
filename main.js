@@ -4,7 +4,6 @@ const shop = document.querySelector('.shop')
 const listItems =[
     {id:1,
         name: "Carved buffalo skull Indian huge skull",
-        price: ,
         img: 'https://i.etsystatic.com/27320701/r/il/ada1ab/3666810339/il_794xN.3666810339_4xk3.jpg',
         car:[
             'https://i.etsystatic.com/27320701/r/il/db904d/3228663256/il_794xN.3228663256_m1as.jpg',
@@ -17,7 +16,7 @@ const listItems =[
     },
     {id:2,
         name: "carved buffalo skull carving Lotus padma",
-        price: ,
+      
         img: "https://i.etsystatic.com/27320701/r/il/60064c/3725923346/il_794xN.3725923346_106v.jpg",
         car:[
             'https://i.etsystatic.com/27320701/r/il/a25970/3725923688/il_794xN.3725923688_pyba.jpg',
@@ -28,7 +27,7 @@ const listItems =[
     },
     {id:3,
         name: "carve skull buffalo Mandala lotus with carved long horn",
-        price: ,
+      
         img: "https://i.etsystatic.com/27320701/r/il/c58d7a/3852775398/il_794xN.3852775398_3it6.jpg",
         car:[
             'https://i.etsystatic.com/27320701/r/il/9afe43/3818326530/il_794xN.3818326530_iq8i.jpg',
@@ -39,7 +38,7 @@ const listItems =[
     },
     {id:4,
         name: "carve buffalo skull with long carved horn mandala Natural White color",
-        price: ,
+      
         img: 'https://i.etsystatic.com/27320701/r/il/04eaf1/3150036084/il_794xN.3150036084_92hc.jpg',
         car:[
             'https://i.etsystatic.com/27320701/r/il/0617f7/3193243299/il_794xN.3193243299_fbx7.jpg',
@@ -52,7 +51,7 @@ const listItems =[
     },
     {id:5,
         name: "Carved buffalo skull Indian natif america",
-        price: ,
+      
         img: 'https://i.etsystatic.com/27320701/r/il/ef012a/3721666122/il_794xN.3721666122_llft.jpg',
         car:[
             'https://i.etsystatic.com/27320701/r/il/3d337c/3768974183/il_794xN.3768974183_q6yk.jpg',
@@ -76,7 +75,7 @@ const listItems =[
     },
     {id:7,
         name: "Carved skull buffalo with octopuse lonng horn",
-        price: ,
+      
         img: 'https://i.etsystatic.com/27320701/r/il/edb917/3278329817/il_794xN.3278329817_h2kg.jpg',
         car:[
             'https://i.etsystatic.com/27320701/r/il/44a06c/3226291318/il_794xN.3226291318_7n57.jpg',
@@ -87,7 +86,7 @@ const listItems =[
     },
     {id:8,
         name: "carved cow skull lotus",
-        price: ,
+      
         img: 'https://i.etsystatic.com/27320701/r/il/85cb43/3678512373/il_794xN.3678512373_ahlx.jpg',
         car:[
             'https://i.etsystatic.com/27320701/r/il/ff33fc/3204015692/il_794xN.3204015692_bs58.jpg',
@@ -98,7 +97,7 @@ const listItems =[
     },
     {id:9,
         name: "carve buffalo skull BOHO MENIAN grey",
-        price: ,
+     
         img: 'https://i.etsystatic.com/27320701/r/il/1fa551/3885111177/il_794xN.3885111177_jj2b.jpg',
         car:[
             'https://i.etsystatic.com/27320701/r/il/44adc3/3868695395/il_794xN.3868695395_1n29.jpg',
@@ -111,7 +110,7 @@ const listItems =[
     },
     {id:10,
         name: "carved buffalo skull carving Mandala sun flower",
-        price: ,
+     
         img: 'https://i.etsystatic.com/27320701/r/il/a1f7d0/3186379098/il_794xN.3186379098_fk0g.jpg',
         car:[
             'https://i.etsystatic.com/27320701/r/il/b0b509/3186395780/il_794xN.3186395780_p5dx.jpg',
@@ -124,7 +123,7 @@ const listItems =[
     },
     {id:11,
         name: "carved buffalo skull small carving round its custom design",
-        price: ,
+    
         img: 'https://i.etsystatic.com/27320701/r/il/d954bb/3284755142/il_794xN.3284755142_1uxd.jpg',
         car:[
             'https://i.etsystatic.com/27320701/r/il/fe744b/3284754466/il_794xN.3284754466_4o2g.jpg',
@@ -135,7 +134,7 @@ const listItems =[
     },
     {id:12,
         name: "carved buffalo flower grey medium horn",
-        price: ,
+      
         img: 'https://i.etsystatic.com/27320701/r/il/13f960/3882017838/il_794xN.3882017838_3ikd.jpg',
         car:[
             'https://i.etsystatic.com/27320701/r/il/94df83/3882018326/il_794xN.3882018326_kb2i.jpg',
@@ -163,7 +162,7 @@ shop.innerHTML=listItems.map((item, index)=>{
                 <img class="card-img-top" src=${item.img} alt=${item.name}>
                 <div class="card-body">
                 <p class="card-title text-uppercase">${item.name}</p>
-                <h5 class="card-text">${rupiah(item.price)}</h5>
+               // <h5 class="card-text">${rupiah(item.price)}</h5>
                 </div>
                 <button type="button" class="btn btn-primary btnDetail" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
                 <i class="bi bi-window-desktop"></i> Detail product
