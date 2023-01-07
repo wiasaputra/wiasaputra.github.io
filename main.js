@@ -274,6 +274,131 @@ const listItems =[
             
         ]
     },
+    {id:23,
+        name: "carve ram skull octopus on skull",
+      
+        img: 'https://i.etsystatic.com/27320701/r/il/0377b9/3984451219/il_794xN.3984451219_elky.jpg',
+        car:[
+            'https://v-cg.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/20220612_094439_rripnw.mp4',
+            'https://i.etsystatic.com/27320701/r/il/9a3f51/3937002182/il_794xN.3937002182_mw7v.jpg',
+            'https://i.etsystatic.com/27320701/r/il/188b3f/3937002104/il_794xN.3937002104_id02.jpg',
+            'https://i.etsystatic.com/27320701/r/il/231f6b/3937002162/il_794xN.3937002162_i00o.jpg',
+            'https://i.etsystatic.com/27320701/r/il/affc56/3984451329/il_794xN.3984451329_kboe.jpg' 
+            
+        ]
+    },
+    {id:24,
+        name: "carved ram skull indian skull",
+      
+        img: 'https://i.etsystatic.com/27320701/r/il/08efe1/4420778250/il_794xN.4420778250_l54a.jpg',
+        car:[
+            'https://i.etsystatic.com/27320701/r/il/e95cd9/4420778286/il_794xN.4420778286_6av6.jpg',
+            'https://i.etsystatic.com/27320701/r/il/82d67c/4468140597/il_794xN.4468140597_1908.jpg',
+            'https://i.etsystatic.com/27320701/r/il/f0d123/4468140589/il_794xN.4468140589_shpp.jpg',
+            'https://i.etsystatic.com/27320701/r/il/401d37/4420778272/il_794xN.4420778272_q24r.jpg',            
+        ]
+    },
+    {id:25,
+        name: "carved skull buffalo skull Ganeca India",
+      
+        img: 'https://i.etsystatic.com/27320701/r/il/5050b1/3678257315/il_794xN.3678257315_9bj1.jpg',
+        car:[
+            'https://i.etsystatic.com/27320701/r/il/89b890/3630640066/il_794xN.3630640066_1rdy.jpg',
+            'https://i.etsystatic.com/27320701/r/il/f28c92/3630640770/il_794xN.3630640770_72c3.jpg',
+            'https://i.etsystatic.com/27320701/r/il/2d1378/3678254127/il_794xN.3678254127_8oh0.jpg',            
+        ]
+    },
+    {id:26,
+        name: "carved skull buffalo skull cow Rose antic",
+      
+        img: 'https://i.etsystatic.com/27320701/r/il/1300c5/4483409716/il_794xN.4483409716_l17f.jpg',
+        car:[
+            'https://i.etsystatic.com/27320701/r/il/c303eb/4527866903/il_794xN.4527866903_fik0.jpg',
+            'https://i.etsystatic.com/27320701/r/il/19f0df/4480501306/il_794xN.4480501306_1qtv.jpg',
+            'https://i.etsystatic.com/27320701/r/il/e92e80/4480501414/il_794xN.4480501414_lihl.jpg',            
+        ]
+    },
+    {id:27,
+        name: "ram skull carve sheep skull carving skull",
+      
+        img: 'https://i.etsystatic.com/27320701/r/il/d02ed8/3683008232/il_794xN.3683008232_hfj0.jpg',
+        car:[
+            'https://i.etsystatic.com/27320701/r/il/58e857/3730610071/il_794xN.3730610071_nulf.jpg',
+            'https://i.etsystatic.com/27320701/r/il/c3cddc/3730610081/il_794xN.3730610081_m3ny.jpg',
+            'https://i.etsystatic.com/27320701/r/il/51d7fe/3683008274/il_794xN.3683008274_igmn.jpg', 
+            'https://i.etsystatic.com/27320701/r/il/d3b86b/3683008272/il_794xN.3683008272_royz.jpg'           
+        ]
+    },
+    {id:28,
+        name: "carved buffalo skull dragon fight grey",
+      
+        img: 'https://i.etsystatic.com/27320701/r/il/cf7cde/3871533499/il_794xN.3871533499_d0vg.jpg',
+        car:[
+            'https://i.etsystatic.com/27320701/r/il/b21719/3788988688/il_794xN.3788988688_6j7x.jpg',
+            'https://i.etsystatic.com/27320701/r/il/8f2d87/3730629541/il_794xN.3730629541_mefq.jpg',
+            'https://i.etsystatic.com/27320701/r/il/e71b6f/3683027968/il_794xN.3683027968_tjqo.jpg', 
+            'https://i.etsystatic.com/27320701/r/il/b60ada/3683027942/il_794xN.3683027942_ir8x.jpg'           
+        ]
+    },
+    {id:29,
+        name: "carve cow skull mandala lotus",
+      
+        img: 'https://i.etsystatic.com/27320701/r/il/f4f571/4090946362/il_794xN.4090946362_bo1j.jpg',
+        car:[
+            'https://i.etsystatic.com/27320701/r/il/719588/4090946566/il_794xN.4090946566_gqlk.jpg',
+            'https://i.etsystatic.com/27320701/r/il/cc63d0/4138600799/il_794xN.4138600799_kviv.jpg',
+            'https://i.etsystatic.com/27320701/r/il/a8e9e5/4138600793/il_794xN.4138600793_2grs.jpg', 
+            'https://i.etsystatic.com/27320701/r/il/61a50f/4138600785/il_794xN.4138600785_ii2o.jpg'   ,
+            'https://i.etsystatic.com/27320701/r/il/25285b/4090960458/il_794xN.4090960458_l718.jpg'        
+        ]
+    },
+    {id:30,
+        name: "carve ram skull carving Flower antic",
+      
+        img: 'https://i.etsystatic.com/27320701/r/il/5ad046/3865931063/il_794xN.3865931063_t4jl.jpg',
+        car:[
+            'https://v-cg.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/file_hiwwge.mp4',
+            'https://i.etsystatic.com/27320701/r/il/00fcf8/3818411738/il_794xN.3818411738_f0cc.jpg',
+            'https://i.etsystatic.com/27320701/r/il/d0e809/3865931097/il_794xN.3865931097_luyz.jpg', 
+            'https://i.etsystatic.com/27320701/r/il/4a609f/3865931161/il_794xN.3865931161_t30l.jpg',
+            'https://i.etsystatic.com/27320701/r/il/b1b1ee/3818411846/il_794xN.3818411846_q0tj.jpg',
+            'https://i.etsystatic.com/27320701/r/il/746d90/3818411822/il_794xN.3818411822_d2p4.jpg'      ,
+            'https://i.etsystatic.com/27320701/r/il/fc8f07/4474930958/il_794xN.4474930958_1chz.jpg'
+        ]
+    },
+    {id:31,
+        name: "carved cow skull carving lotus",
+      
+        img: 'https://i.etsystatic.com/27320701/r/il/f0bc15/3336783342/il_794xN.3336783342_16kr.jpg',
+        car:[
+            'https://v-cg.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/video_20210918_105211_slfm3h.mp4',
+            'https://i.etsystatic.com/27320701/r/il/c0a6d4/3384477583/il_794xN.3384477583_ei0n.jpg',
+            'https://i.etsystatic.com/27320701/r/il/4acb39/3336783296/il_794xN.3336783296_gehy.jpg',
+        ]
+    },
+    {id:32,
+        name: "ram skull carving patern white",
+      
+        img: 'https://i.etsystatic.com/27320701/r/il/af50f7/3529419860/il_794xN.3529419860_mclh.jpg',
+        car:[
+            'https://i.etsystatic.com/27320701/r/il/6924ff/3529419518/il_794xN.3529419518_eche.jpg',
+            'https://i.etsystatic.com/27320701/r/il/afc4d4/3577058037/il_794xN.3577058037_hxab.jpg',
+            'https://i.etsystatic.com/27320701/r/il/68aa03/3577058063/il_794xN.3577058063_6v8b.jpg',
+        ]
+    },
+    {id:33,
+        name: "Carve buffalo skull lotus with carved horn",
+      
+        img: 'https://i.etsystatic.com/27320701/r/il/466026/4459765952/il_794xN.4459765952_huoi.jpg',
+        car:[
+            'https://i.etsystatic.com/27320701/r/il/cb86ad/4507130005/il_794xN.4507130005_mgij.jpg',
+            'https://i.etsystatic.com/27320701/r/il/0711a1/4507130049/il_794xN.4507130049_7czm.jpg',
+            'https://i.etsystatic.com/27320701/r/il/515d57/4507130099/il_794xN.4507130099_8x1b.jpg',
+            'https://i.etsystatic.com/27320701/r/il/d8bc6e/4459766156/il_794xN.4459766156_lflq.jpg',
+            'https://i.etsystatic.com/27320701/r/il/1c3128/4507130207/il_794xN.4507130207_queu.jpg',
+            'https://i.etsystatic.com/27320701/r/il/a0f178/4459766284/il_794xN.4459766284_ebii.jpg'
+        ]
+    },
     
     
 ] 
@@ -295,7 +420,7 @@ shop.innerHTML=listItems.map((item, index)=>{
                 <img class="card-img-top" src=${item.img} alt=${item.name}>
                 <div class="card-body">
                 <p class="card-title text-uppercase">${item.name}</p>
-               // <h5 class="card-text">${rupiah(item.price)}</h5>
+                
                 </div>
                 <button type="button" class="btn btn-primary btnDetail" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
                 <i class="bi bi-window-desktop"></i> Detail product
