@@ -144,6 +144,84 @@ const listItems =[
             
         ]
     },
+    {id:13,
+        name: "carve ram skull carving mandala",
+      
+        img: 'https://i.etsystatic.com/27320701/r/il/b51705/3912888309/il_794xN.3912888309_6f49.jpg',
+        car:[
+            'https://i.etsystatic.com/27320701/r/il/2fed87/3730494817/il_794xN.3730494817_3e10.jpg',
+            'https://i.etsystatic.com/27320701/r/il/9d9739/3682893962/il_794xN.3682893962_7afn.jpg',
+            'https://i.etsystatic.com/27320701/r/il/4cb861/3730494791/il_794xN.3730494791_5geu.jpg',
+            'https://i.etsystatic.com/27320701/r/il/9cb4b7/3682893918/il_794xN.3682893918_q43s.jpg',
+            'https://i.etsystatic.com/27320701/r/il/ff2f86/3818405638/il_794xN.3818405638_hi68.jpg'
+            
+        ]
+    },
+    {id:14,
+        name: "Carved buffalo head skull carving floral",
+      
+        img: 'https://i.etsystatic.com/27320701/r/il/df9ef8/3158984148/il_794xN.3158984148_pve9.jpg',
+        car:[
+            'https://i.etsystatic.com/27320701/r/il/b1fdc7/3050990292/il_794xN.3050990292_nlan.jpg',
+            'https://i.etsystatic.com/27320701/r/il/b9e276/3098718287/il_794xN.3098718287_fpnn.jpg',
+            'https://i.etsystatic.com/27320701/r/il/c2b43d/3050990634/il_794xN.3050990634_8i0g.jpg',
+            'https://i.etsystatic.com/27320701/r/il/46abeb/2960754078/il_794xN.2960754078_2ve9.jpg',
+            'https://v-cg.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_155628465_bikhqz.mp4'
+            
+        ]
+    },
+    {id:15,
+        name: "carved buffalo lotus grey medium horn",
+      
+        img: 'https://i.etsystatic.com/27320701/r/il/010617/4483410906/il_794xN.4483410906_cuq9.jpg',
+        car:[
+            'https://i.etsystatic.com/27320701/r/il/dcf7f3/4418671062/il_794xN.4418671062_g8uq.jpg',
+            'https://i.etsystatic.com/27320701/r/il/06cd15/4418671028/il_794xN.4418671028_aeq7.jpg',
+            'https://i.etsystatic.com/27320701/r/il/7ded5b/4418671084/il_794xN.4418671084_4m51.jpg',
+        ]
+    },
+    {id:16,
+        name: "Deer antler carving dragon for knife handle antler",
+      
+        img: 'https://i.etsystatic.com/27320701/r/il/e13cbb/3898233041/il_794xN.3898233041_jl1f.jpg',
+        car:[
+            'https://i.etsystatic.com/27320701/r/il/3f369f/3826606818/il_794xN.3826606818_r2x4.jpg',
+            'https://i.etsystatic.com/27320701/r/il/69d902/3874120317/il_794xN.3874120317_pniv.jpg',
+            'https://i.etsystatic.com/27320701/r/il/f85d45/3826606778/il_794xN.3826606778_cktb.jpg',
+            'https://i.etsystatic.com/27320701/r/il/05bb8a/3874120389/il_794xN.3874120389_jfis.jpg',
+            'https://i.etsystatic.com/27320701/r/il/30f33e/3826606748/il_794xN.3826606748_pjhk.jpg'
+            
+            
+        ]
+    },
+    {id:17,
+        name: "carved ram skull carving white style",
+      
+        img: 'https://i.etsystatic.com/27320701/r/il/334dfc/3860245039/il_794xN.3860245039_c5w0.jpg',
+        car:[
+            'https://i.etsystatic.com/27320701/r/il/18d7df/3812723794/il_794xN.3812723794_8wyc.jpg',
+            'https://i.etsystatic.com/27320701/r/il/1445ed/3812723738/il_794xN.3812723738_3luh.jpg',
+            'https://i.etsystatic.com/27320701/r/il/ffe7d3/3860245067/il_794xN.3860245067_ih8z.jpg',
+            'https://i.etsystatic.com/27320701/r/il/8bfdf0/3812723776/il_794xN.3812723776_gbn9.jpg',
+            'https://i.etsystatic.com/27320701/r/il/de1d5c/3812723752/il_794xN.3812723752_acma.jpg'
+            
+            
+        ]
+    },
+    {id:18,
+        name: "carve goat skull carving viking grey HUGE",
+      
+        img: 'https://i.etsystatic.com/27320701/r/il/2325ee/4138598969/il_794xN.4138598969_oxks.jpg',
+        car:[
+            'https://i.etsystatic.com/27320701/r/il/e2fd12/4138598903/il_794xN.4138598903_6rrr.jpg',
+            'https://i.etsystatic.com/27320701/r/il/e067c2/4090944654/il_794xN.4090944654_bj87.jpg',
+            'https://i.etsystatic.com/27320701/r/il/fc5cad/4138598941/il_794xN.4138598941_k3uo.jpg',
+            'https://i.etsystatic.com/27320701/r/il/76c45d/4138598965/il_794xN.4138598965_m0j0.jpg',
+            'https://i.etsystatic.com/27320701/r/il/c899b2/4090944690/il_794xN.4090944690_8yyu.jpg'
+            
+            
+        ]
+    },
     
     
 ] 
@@ -155,6 +233,9 @@ const rupiah = (number)=>{
     }).format(number);
   }
 
+  listItems.sort((a, b) => {
+    return b.id - a.id;
+});
 shop.innerHTML=listItems.map((item, index)=>{ 
     return `
         <div class="col-sm-4">
