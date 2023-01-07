@@ -222,6 +222,58 @@ const listItems =[
             
         ]
     },
+    {id:19,
+        name: "Deer antler carving Indian relieft for handle",
+      
+        img: 'https://i.etsystatic.com/27320701/r/il/abc646/3854307876/il_794xN.3854307876_ldej.jpg',
+        car:[
+            'https://i.etsystatic.com/27320701/r/il/220bc0/3854307758/il_794xN.3854307758_37gn.jpg',
+            'https://i.etsystatic.com/27320701/r/il/7b274b/3901805879/il_794xN.3901805879_4md7.jpg',
+            'https://i.etsystatic.com/27320701/r/il/ce9f24/3901805921/il_794xN.3901805921_siub.jpg',
+            'https://i.etsystatic.com/27320701/r/il/5b24d9/3901805779/il_794xN.3901805779_k74s.jpg',
+            'https://i.etsystatic.com/27320701/r/il/db4d8b/3901805717/il_794xN.3901805717_dbk4.jpg'
+            
+            
+        ]
+    },
+    {id:20,
+        name: "Carve buffalo skull carving huge long horn floral batik white",
+      
+        img: 'https://i.etsystatic.com/27320701/r/il/875bdd/3716402853/il_794xN.3716402853_7c2d.jpg',
+        car:[
+            'https://v-cg.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/video_20220111_153758_bz7vxz.mp4',
+            'https://i.etsystatic.com/27320701/r/il/2178dd/3654891041/il_794xN.3654891041_reka.jpg',
+            'https://i.etsystatic.com/27320701/r/il/6a61ed/3588394674/il_794xN.3588394674_nthd.jpg',
+            'https://i.etsystatic.com/27320701/r/il/064adb/3588395442/il_794xN.3588395442_q22x.jpg',           
+            
+        ]
+    },
+    {id:21,
+        name: "carved skull buffalo skull cow Rose antic",
+      
+        img: 'https://i.etsystatic.com/27320701/r/il/c3c178/3588397380/il_794xN.3588397380_ng8x.jpg',
+        car:[
+            'https://v-cg.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/video_20220111_154100_yl7dns.mp4',
+            'https://i.etsystatic.com/27320701/r/il/8457a9/3636006401/il_794xN.3636006401_f600.jpg',
+            'https://i.etsystatic.com/27320701/r/il/df42d7/3636004653/il_794xN.3636004653_e5k2.jpg',
+            'https://i.etsystatic.com/27320701/r/il/02255b/3636004625/il_794xN.3636004625_834d.jpg',   
+            'https://i.etsystatic.com/27320701/r/il/0bf3d4/3636004649/il_794xN.3636004649_rjdo.jpg',
+            'https://i.etsystatic.com/27320701/r/il/fa348e/3588383688/il_794xN.3588383688_aiwd.jpg'
+            
+        ]
+    },
+    {id:22,
+        name: "Deer antler carving knife handle bear long size",
+      
+        img: 'https://i.etsystatic.com/27320701/r/il/662a2d/3805041149/il_794xN.3805041149_5arc.jpg',
+        car:[
+            'https://i.etsystatic.com/27320701/r/il/1701cd/3804859543/il_794xN.3804859543_sxqk.jpg',
+            'https://i.etsystatic.com/27320701/r/il/bb9ee5/3804859467/il_794xN.3804859467_6rip.jpg',
+            'https://i.etsystatic.com/27320701/r/il/c70a3a/3757265698/il_794xN.3757265698_j2bs.jpg',
+            'https://i.etsystatic.com/27320701/r/il/9287fd/3757265604/il_794xN.3757265604_h9kl.jpg', 
+            
+        ]
+    },
     
     
 ] 
